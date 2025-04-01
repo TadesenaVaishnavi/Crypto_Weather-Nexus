@@ -34,3 +34,31 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+CryptoWeather Nexus
+
+A multi-page dashboard displaying real-time cryptocurrency prices, weather data, and crypto-related news.
+
+🌟 Features
+
+Weather Dashboard: Temperature, humidity, and conditions for multiple cities.
+
+Crypto Prices: Live Bitcoin and Ethereum prices with WebSocket updates.
+
+News Section: Top 5 latest crypto-related news articles.
+
+Dark Mode Support: Toggle between light and dark themes.
+
+
+
+Tech Stack
+
+Frontend: Next.js, React, Tailwind CSS
+
+State Management: Redux
+
+APIs: OpenWeatherMap, CoinCap WebSocket
+
+Hosting: Vercel
+

@@ -5,6 +5,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
+npm start
+# or
 npm run dev
 # or
 yarn dev
@@ -62,3 +64,4 @@ APIs: OpenWeatherMap, CoinCap WebSocket
 
 Hosting: Vercel
 
+# Crypto-Weather-Nexus

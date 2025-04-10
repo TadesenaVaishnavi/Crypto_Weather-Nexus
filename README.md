@@ -65,3 +65,4 @@ APIs: OpenWeatherMap, CoinCap WebSocket
 Hosting: Vercel
 
 # Crypto-Weather-Nexus
+# CryptoWeather_Nexus
